@@ -1,4 +1,5 @@
 #Student data base, Ludniewski Bartas, peace
+cycki
 import os
 
 studenci=[]
