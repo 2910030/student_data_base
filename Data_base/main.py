@@ -1,5 +1,5 @@
 #Student data base, Ludniewski Bartas, peace
-cycki
+
 import os
 
 studenci=[]
@@ -36,8 +36,8 @@ while 1:
     print("1. Dodaj")
     print("2. Usun PESEL")
     print("3. Szukaj PESEL")
-    print("4. Wyswietl")
-    print("0: Koniec")
+    print("4. Wyswietl baze")
+    print("0. Koniec")
 
     w = int(input("Wybór: "))
 
